@@ -37,17 +37,17 @@ In this section of the book, we work with:
 
 2. (Optional) Create a virtual environment:
 
-```
-    python -m venv .venv
-    source venv/bin/activate   # macOS/Linux
-    venv\Scripts\activate      # Windows
-```
+   ```
+   python -m venv .venv
+   source venv/bin/activate   # macOS/Linux
+   venv\Scripts\activate      # Windows
+   ```
 
 3. Install dependencies:
 
-```
+   ```
    pip install -r requirements.txt
-```
+   ```
 
 ## 📊 Example Outputs
 
